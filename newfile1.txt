@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 line 1 added from local
 line 2 added from local
-=======
-line 1 added from repo
->>>>>>> 55f3ac7e6f5b1e43551c153b88431462288289f5
