@@ -2,4 +2,4 @@ master 9 file edited
 master 711
 master edited
 new line added
-new line
+new trim
